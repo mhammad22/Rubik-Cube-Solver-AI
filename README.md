@@ -1,4 +1,3 @@
-# Rubik-Cube-Solver-AI
 
 
 # Solving Rubik’s Cube using Iterative Deepening Search & A* Algorithm
