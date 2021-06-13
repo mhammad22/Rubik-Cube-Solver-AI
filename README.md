@@ -9,7 +9,7 @@ You can use any compiler Like Vscode, Atom to compile this code. Just Download a
 Just Run on any c++ Compiler. No such Dependencies Required.
 
 # Introduction:
-Rubik's Cube is a 3-D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik. Originally called the Magic Cube, the puzzle was licensed by Rubik to be sold by Ideal Toy Corp. in 1980 via businessman Tibor Laczi and Seven Towns founder Tom Kremer and won the German Game of the Year special award for Best Puzzle that year. As of January 2009, 350 million cubes had been sold worldwide, making it the world's top-selling puzzle game. It is widely considered to be the world's best-selling puzzle.
+Rubik's Cube is the 3-D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik. Originally called the Magic Cube, the puzzle was licensed by Rubik to be sold by Ideal Toy Corp. in 1980 via businessman Tibor Laczi and Seven Towns founder Tom Kremer and won the German Game of the Year special award for Best Puzzle that year. As of January 2009, 350 million cubes had been sold worldwide, making it the world's top-selling puzzle game. It is widely considered to be the world's best-selling puzzle.
 In this assignment, we were required to solve a Rubik’s Cube by using an uninformed search called Iterative Deepening Search (IDS) and an informed search called A* algorithm that uses a heuristic to guide the search pattern. Initial and Final states of the cube are provided via a file that is loaded into the program as it starts and solves the cube using both algorithms. Both algorithms are implemented in the same cpp file.
 
 # Methodology:
